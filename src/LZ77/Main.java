@@ -1,8 +1,6 @@
-package LZ77Folder;
+package LZ77;
 
 import java.io.*;
-import java.net.URL;
-import java.net.URLConnection;
 
 public class Main {
     public static void main(String[] args) throws IOException {

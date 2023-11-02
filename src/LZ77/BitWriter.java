@@ -1,4 +1,4 @@
-package LZ77Folder;
+package LZ77;
 
 import java.io.IOException;
 import java.io.OutputStream;

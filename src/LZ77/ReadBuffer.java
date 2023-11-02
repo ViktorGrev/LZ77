@@ -1,4 +1,4 @@
-package LZ77Folder;
+package LZ77;
 
 public class ReadBuffer {
     private byte bits;

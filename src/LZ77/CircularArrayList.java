@@ -1,4 +1,4 @@
-package LZ77Folder;
+package LZ77;
 
 import java.util.AbstractList;
 import java.util.ArrayList;
